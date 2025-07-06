@@ -11,5 +11,5 @@ This repository contains the projects & code for the AICTE Internship Program Cy
    
    3.Model training notebooks and results
 ## Trained Model Link:
-   The follewing is the google drive link to acess the model trained during these sessions.
+   The following is the google drive link to acess the model trained during these sessions.
    https://drive.google.com/file/d/168lXbjzt_CghgfmzLlMReyeOiL9KZK28/view?usp=sharing
